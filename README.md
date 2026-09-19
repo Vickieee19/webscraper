@@ -68,7 +68,7 @@ Traditional scrapers break silently when a website is redesigned. This project s
 ## 🚀 Quick Start
 
 ### Requirements
-- Python **3.11+**
+- Python **3.11, 3.12, or 3.13** (all supported)
 - Node.js **18+**
 - npm
 
